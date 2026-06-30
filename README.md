@@ -4,7 +4,7 @@ This project is an Rc-Car. It is my 10th to be exact, get more context in my [pr
 
 ---
 
-##History & Why I build this:
+## History & Why I build this:
 
 It is my 10th Rc-Car, 7th when you're only counting the working ones. In the image below you can see them from old to new!
 
