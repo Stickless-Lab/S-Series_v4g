@@ -1,6 +1,6 @@
 # CAD
 
-This folder contains the CAD files for the S-Series V3 hardware design.
+This folder contains the CAD files for the S-Series-v4.4g hardware design.
 
 ## What is included
 
