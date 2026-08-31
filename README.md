@@ -20,6 +20,14 @@ I build this because an rc car is a very entry level but you can make it very co
 <img width="844" height="712" alt="image" src="https://github.com/user-attachments/assets/3280456c-30cd-4955-97aa-cbebaf251399" />
 <img width="1256" height="428" alt="image" src="https://github.com/user-attachments/assets/0db16e85-0a0a-4451-bcd5-eebfe7e58ba9" />
 
+### Finished Assembly
+
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/dfb75857-b914-431b-8e79-00ab8794149e" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/5e283122-de9f-4359-a78e-a4646e93ac52" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/8fffc4c4-f806-494a-8544-44ab757e838c" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/855feb5c-19e1-4a93-8661-e185b09a643d" />
+
+
 ---
 
 ## Files
