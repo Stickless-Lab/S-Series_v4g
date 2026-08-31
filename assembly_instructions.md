@@ -1,7 +1,15 @@
+# DISCLAMER
+
+⚠️⚠️ **I DO NOT RECOMMEND ACTUALLY BUILDING THIS CAR YOURSELF.**
+
+This is my latest design, but it honestly isn’t that good. There are better cars to print and build.
+
+If you’re seeing this 1–2 years from now, check my GitHub profile and I’ll likely have a much better car available. ⚠️⚠️
+
+
 # Assembly Instructions
 
 This is not a full step-by-step guide on how to assemble the car. I will explain the main things you need to do, and you should be able to figure out most of it as you go. It is honestly not that hard.
-Also the car is not completely done, many changes still need to be made.
 
 I highly recommend downloading the Fusion assembly file [here](cad/S-Series_v4.3g.f3z) and opening it in Fusion, which is free to use. This file shows the full assembly, so you can clearly see where every part needs to go.
 
@@ -15,7 +23,8 @@ You will also need a screw kit with screws ranging from M3 to M5, and lengths fr
 
 Next, 3D print all the required parts.
 
-Print the parts  [here](cad/stl-files).
+Print the parts  [here](https://github.com/Stickless-Lab/S-Series_v4g/tree/main/cad).
+In that folder you will see 2 folders, 1 with PETG parts and 1 with PLA parts, print those in the right material.
 
 ## Assembly
 
@@ -25,21 +34,9 @@ There are no fixed instructions like “use this exact screw here and that exact
 
 For most parts, it also does not matter too much if the screw sticks out a little. I had that in a few places too.
 
-## Upload the Firmware
-
-Upload the firmware to the ESP32 before finishing the wiring.
-
-The firmware can be found here:
-
-[firmware/S-Series-v3.cpp](https://github.com/Stickless-Lab/S-Series_v4g/blob/main/firmware/S-Series-v4g.cpp)
-
-More detailed firmware upload instructions are available here:
-
-[firmware/README.md](https://github.com/Stickless-Lab/S-Series_v4g/blob/main/firmware/README.md)
-
 ## Wiring
 
-After the firmware is uploaded, wire all the electronics together.
+Wire all electronics together.
 
 You do not need a soldering iron for this project. All wiring instructions can be found in this folder:
 
