@@ -38,7 +38,8 @@ https://github.com/user-attachments/assets/4a4031a4-e772-4ede-a553-a55399b752c1
 * `cad/` - CAD source files, STEP files, and STL files
 * `BOM.csv` - Bill of materials
 * `images/` - Contains images of the finished project
-* `pcb/` - This folder shows the wiring of your project (this project doesn't actually use a PCB)
+* `pcb/` - This folder shows the wiring of my project (this project doesn't actually use a PCB)
+* `assembly_instructions.md/` - This file has the instructions to assemble the car. It shouldn't be hard to assemble it at all, just look at the cad file to see where each part you've printed needs to go
 
 ---
 
