@@ -11,6 +11,7 @@ It is my 10th Rc-Car, 7th when you're only counting the working ones. In the ima
 <img width="1874" height="327" alt="image" src="https://github.com/user-attachments/assets/53af4209-cd82-428c-af2f-41f07d8900b8" />
 
 I build this because an rc car is a very entry level but you can make it very complex if you want. As you can see in the image, the one on the left is literally just 1 part, that did mean no steering, but who cares? It was my first working project without any previous experience and I was proud if it. Besides, just a little more then 1 year later I'm already a lot further and a lot more skilled. 
+I mean it now has working suspension, a 1:6 gear reduction, a lot stronger and more reliable parts, great steering and overall drives very well.
 
 ---
 
