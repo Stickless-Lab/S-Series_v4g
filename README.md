@@ -1,6 +1,6 @@
 # S-Series_v4g
 
-This project is an Rc-Car. It is my 10th to be exact, get more context in my [previous Rc-Car](https://github.com/Stickless-Lab/S-Series_v3/tree/main).
+This project is an Rc-Car. It is my 10th to be exact, get more context in my [previous Rc-Car](https://github.com/Stickless-Lab/S-Series_v3/tree/main) (and see the massive improvement in the quality 😏)
 
 ---
 
