@@ -37,7 +37,8 @@ https://github.com/user-attachments/assets/4a4031a4-e772-4ede-a553-a55399b752c1
 
 * `cad/` - CAD source files, STEP files, and STL files
 * `BOM.csv` - Bill of materials
-* `images/` - Pretty self explanatory
+* `images/` - Contains images of the finished project
+* `PCB/` - This folder shows the wiring of your project (this project doesn't actually use a PCB)
 
 ---
 
