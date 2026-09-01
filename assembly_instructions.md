@@ -4,7 +4,7 @@
 
 This is my latest design, but it honestly isn’t that good. There are better cars to print and build.
 
-If you’re seeing this 1–2 years from now, check my GitHub profile and I’ll likely have a much better car available. ⚠️⚠️
+If you’re seeing this 1–2 years from now (2026), check my GitHub profile and I’ll likely have a much better car available. ⚠️⚠️
 
 
 # Assembly Instructions
