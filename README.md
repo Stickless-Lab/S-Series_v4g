@@ -27,6 +27,9 @@ I build this because an rc car is a very entry level but you can make it very co
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/8fffc4c4-f806-494a-8544-44ab757e838c" />
 <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/855feb5c-19e1-4a93-8661-e185b09a643d" />
 
+### Video
+
+https://github.com/user-attachments/assets/4a4031a4-e772-4ede-a553-a55399b752c1
 
 ---
 
